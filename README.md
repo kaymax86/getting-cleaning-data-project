@@ -35,7 +35,7 @@ What you find in this repository
 
 How to create the tidy data set
 
-    clone this repository: git clone 
+    clone this repository: git clone  https://github.com/kaymax86/getting-cleaning-data-project.git
     download compressed raw data
     unzip raw data and copy the directory UCI HAR Dataset to the cloned repository root directory
     open an R console and set the working directory to the repository root (use setwd())
